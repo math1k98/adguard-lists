@@ -4,7 +4,20 @@
 
 /.*cassino.*/
 /.*apostas.*/
+/.*aposte.*/
+/.*betano.*/
 /.*bet365.*/
 /.*blaze.*/
+/.*superbet.*/
+/.*kto.*/
 /.*sportingbet.*/
 /.*gazetaesportiva.*/
+/.*sportingbet.*/
+/.*apostas.*/
+/.*betdasorte.*/
+/.*br4bet.*/
+/.*meridianbet.*/
+/.*stake.*/
+/.*oleybet.*/
+/.*onabet.*/
+
