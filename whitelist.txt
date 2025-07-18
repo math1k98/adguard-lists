@@ -1,0 +1,69 @@
+# =====================
+# SOITIC
+# =====================
+
+@@||soitic.duckdns.org^$important
+
+# =====================
+# ArtCafé
+# =====================
+
+@@||gerarchaves.hol.es^$important
+
+# =====================
+# Driver Booster
+# =====================
+
+@@||www.iobit.com^$important
+@@||download.iobit.com^$important
+@@||idb.iobit.com^$important
+@@||ascstats.iobit.com^$important
+@@||purchase.iobit.com^$important
+
+# =====================
+# Mercado Livre
+# =====================
+
+@@||mercadolivre.com.br^$important
+@@||matt.mercadolivre.com.br^$important
+
+# =====================
+# Yahoo
+# =====================
+
+@@||br.search.yahoo.com^$important
+@@||search.yahoo.com^$important
+@@||yahoo.com.br^$important
+
+# =====================
+# ECOS
+# =====================
+
+@@||meucarrinho.delivery^$important
+
+# =====================
+# Google ADS
+# =====================
+
+@@||dns.google^$important
+@@||ads.google.com^$important
+@@||ad.doubleclick.net^$important
+
+# =====================
+# Vimeo
+# =====================
+
+@@||vimeo.com^$important
+@@||player.vimeo.com^$important
+@@||vimeocdn.com^$important
+@@||f.vimeocdn.com^$important
+@@||i.vimeocdn.com^$important
+@@||skyfire.vimeocdn.com^$important
+@@||fastly.vimeocdn.com^$important
+@@||vimeo.mo.cloudinary.net^$important
+@@||vimeo.net^$important
+@@||vimeo-bynder.imgix.net^$important
+@@||api.vimeo.com^$important
+@@||graph.vimeo.com^$important
+@@||embed.vimeo.com^$important
+@@||permanently-available.vimeo.com^$important
