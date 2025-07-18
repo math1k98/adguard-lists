@@ -1,0 +1,10 @@
+# =====================
+# Apostas e Bets
+# =====================
+
+/.*cassino.*/
+/.*apostas.*/
+/.*bet365.*/
+/.*blaze.*/
+/.*sportingbet.*/
+/.*gazetaesportiva.*/
