@@ -21,6 +21,11 @@
 /.*stake.*/
 /.*oleybet.*/
 /.*onabet.*/
+/.*loteria.*/
+/.*megassena.*/
+/.*loto.*/
+/.*quina.*/
+/.*jogodobicho.*/
 
 # =====================
 # Redes Sociais
