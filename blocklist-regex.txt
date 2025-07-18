@@ -21,3 +21,44 @@
 /.*stake.*/
 /.*oleybet.*/
 /.*onabet.*/
+
+# =====================
+# Streaming e Filmes
+# =====================
+
+/.*netflix.*/
+/.*primevideo.*/
+/.*prime\.video.*/
+/.*disneyplus.*/
+/.*disney\.com.*/
+/.*hbomax.*/
+/.*hbo\.com.*/
+/.*globoplay.*/
+/.*starplus.*/
+/.*star\+.*/
+/.*paramountplus.*/
+/.*paramount.*/
+/.*apple\.tv.*/
+/.*tv\.apple.*/
+/.*appletv.*/
+/.*telecineplay.*/
+/.*telecine.*/
+/.*looke.*/
+/.*nowonline.*/
+/.*netcombo.*/
+/.*claro\.tv.*/
+/.*oi\.play.*/
+/.*br\.play\.hbonow.*/
+/.*universalplus.*/
+/.*streaming\.globo.*/
+/.*amctv.*/
+/.*crunchyroll.*/
+/.*twitch.*/
+/.*kick.*/
+/.*bigo\.tv.*/
+/.*cube\.tv.*/
+/.*nonolive.*/
+/.*booyah.*/
+/.*mixer\.com.*/
+/.*nimo\.tv.*/
+/.*trovo\.live.*/
