@@ -2,6 +2,7 @@
 # Apostas e Bets
 # =====================
 
+/.*bet.*/
 /.*cassino.*/
 /.*apostas.*/
 /.*aposte.*/
