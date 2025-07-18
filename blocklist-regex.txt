@@ -23,6 +23,16 @@
 /.*onabet.*/
 
 # =====================
+# Redes Sociais
+# =====================
+
+/.*twitter.*/
+/.*x\.com.*/
+/.*threads.*/
+/.*snapchat.*/
+/.*kwai.*/
+
+# =====================
 # Streaming e Filmes
 # =====================
 
@@ -62,3 +72,36 @@
 /.*mixer\.com.*/
 /.*nimo\.tv.*/
 /.*trovo\.live.*/
+
+# =====================
+# Plataformas de Jogos
+# =====================
+
+/.*roblox.*/
+/.*minecraft.*/
+/.*epicgames.*/
+/.*fortnite.*/
+/.*steam.*/
+/.*riotgames.*/
+/.*valorant.*/
+/.*playstation.*/
+/.*xbox.*/
+/.*nintendo.*/
+/.*garena.*/
+/.*gamepass.*/
+
+# =====================
+# Torrents
+# =====================
+
+/.*torrent.*/
+/.*torrents.*/
+/.*thepiratebay.*/
+/.*1337x.*/
+/.*rarbg.*/
+/.*yts.*/
+/.*kickasstorrents.*/
+/.*limetorrents.*/
+/.*bitlord.*/
+/.*4shared.*/
+/.*terabox.*/
