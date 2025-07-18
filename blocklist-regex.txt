@@ -110,3 +110,39 @@
 /.*bitlord.*/
 /.*4shared.*/
 /.*terabox.*/
+
+# =====================
+# Hack/Cracking/Scam/Phishing
+# =====================
+
+/.*crack.*/
+/.*warez.*/
+/.*keygen.*/
+/.*nulled.*/
+/.*hackforums.*/
+/.*cheatengine.*/
+/.*aimbot.*/
+/.*cheat.*/
+/.*skidrow.*/
+/.*reloaded.*/
+/.*fitgirl.*/
+/.*freemoney.*/
+/.*clickhere.*/
+/.*claimprize.*/
+/.*getrich.*/
+/.*winfree.*/
+/.*phishing.*/
+/.*fakeupdate.*/
+/.*giftcardsfree.*/
+/.*youhavelost.*/
+
+# =====================
+# Cripto e Mineração
+# =====================
+
+/.*coinhive.*/
+/.*cryptotab.*/
+/.*cryptomining.*/
+/.*ethminer.*/
+/.*nicehash.*/
+/.*minergate.*/
