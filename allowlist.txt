@@ -5,7 +5,7 @@
 @@||soitic.duckdns.org^$important
 
 # =====================
-# ArtCafé
+# Café
 # =====================
 
 @@||gerarchaves.hol.es^$important
