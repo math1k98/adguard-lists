@@ -9,6 +9,9 @@
 # =====================
 
 @@||gerarchaves.hol.es^$important
+@@||app.askwaiter.com.br^$important
+@@||customer-app.askwaiter.com.br^$important
+@@||api.askwaiter.com.br^$important
 
 # =====================
 # Driver Booster
