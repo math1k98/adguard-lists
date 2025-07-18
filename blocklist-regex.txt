@@ -21,4 +21,4 @@
 /.*stake.*/
 /.*oleybet.*/
 /.*onabet.*/
-
+https://raw.githubusercontent.com/math1k98/adguard-soitic/refs/heads/main/blocklist-regex.txt?token=GHSAT0AAAAAADHTR6V3OMM7P6H2SQDDECF62D2UOOQ
