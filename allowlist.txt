@@ -68,4 +68,3 @@
 @@||embed.vimeo.com^$important
 @@||permanently-available.vimeo.com^$important
 
-@@||facebook.com^$important
