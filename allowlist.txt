@@ -42,15 +42,11 @@
 # ECOS
 # =====================
 
-@@||meucarrinho.delivery^$important
-
-# =====================
-# Google ADS
-# =====================
-
 @@||dns.google^$important
 @@||ads.google.com^$important
 @@||ad.doubleclick.net^$important
+@@||meucarrinho.delivery^$important
+@@||yandex.com^$important
 
 # =====================
 # Vimeo
