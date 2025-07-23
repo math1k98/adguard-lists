@@ -3,3 +3,8 @@
 # =====================
 
 @@/.*twitch.*/$client=192.168.0.159
+@@||twitch.tv^$client=192.168.0.159
+@@||twitch.tv^$client=192.168.0.159
+@@||ttvnw.net^$client=192.168.0.159
+@@||twitchcdn.net^$client=192.168.0.159
+
