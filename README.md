@@ -1,2 +1,1 @@
-Filter Lists
-Blocklist and Allowlist
+Filter lists for Blocklist and Allowlist
