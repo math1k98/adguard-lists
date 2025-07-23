@@ -1,2 +1,2 @@
-# adguard-soitic
-Blocklist and Whitlist for AdGuard
+Filter Lists
+Blocklist and Allowlist
