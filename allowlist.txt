@@ -12,6 +12,9 @@
 @@||app.askwaiter.com.br^$important
 @@||customer-app.askwaiter.com.br^$important
 @@||api.askwaiter.com.br^$important
+@@||app.homolog.askwaiter.com.br^$important
+@@||customer-app.homolog.askwaiter.com.br^$important
+@@||api.homolog.askwaiter.com.br^$important
 
 # =====================
 # Driver Booster
