@@ -50,6 +50,9 @@
 @@||ad.doubleclick.net^$important
 @@||meucarrinho.delivery^$important
 @@||yandex.com^$important
+@@||tiktok.com^$important
+@@||tiktokcdn.com^$important
+@@||tiktokv.com^$important
 
 # =====================
 # Vimeo
