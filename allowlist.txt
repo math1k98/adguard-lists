@@ -48,6 +48,8 @@
 @@||dns.google^$important
 @@||ads.google.com^$important
 @@||ad.doubleclick.net^$important
+@@||cc-api-data.adobe.io^$important
+@@||aepxlg.adobe.com^$important
 @@||meucarrinho.delivery^$important
 @@||yandex.com^$important
 @@||tiktok.com^$important
