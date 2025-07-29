@@ -9,12 +9,26 @@
 @@||twitchcdn.net^$client=192.168.0.195
 
 # =====================
-# CIDS - Adrian
+# CIDS
 # =====================
 
+# Adrian Damião
 @@/.*twitch.*/$client=192.168.0.159
 @@||twitch.tv^$client=192.168.0.159
 @@||twitch.tv^$client=192.168.0.159
 @@||ttvnw.net^$client=192.168.0.159
 @@||twitchcdn.net^$client=192.168.0.159
 
+# =====================
+# Comercial
+# =====================
+
+# Rodrigo Henrique
+@@/.*telegram.*/$client=192.168.0.195
+@@||telegram.org^$client=192.168.0.195
+@@||t.me^$client=192.168.0.195
+@@||telegram.me^$client=192.168.0.195
+@@||cdn-telegram.org^$client=192.168.0.195
+@@||telegram-cdn.org^$client=192.168.0.195
+@@||telegra.ph^$client=192.168.0.195
+@@||tg.dev^$client=192.168.0.195
