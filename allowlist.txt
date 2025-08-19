@@ -111,11 +111,35 @@
 @@||avo3.com.br^$important
 @@||cdn.dooca.store^$important
 @@||assets.dooca.store^$important
+@@||www.usereserva.com^$important
+@@||usereserva.com^$important
+@@||sp.vtex.com^$important
+@@||www.usereserva.com/api/checkout/pub/orderForm^$important
+@@||color.adobe.com/pt/create^$important
+@@||color.adobe.com^$important
+@@||dpm.demdex.net^$important
+@@||sstats.adobe.com^$important
+@@||web.telegram.org^$important
+@@||telegram.org^$important
+@@||t.me^$important
+@@||telegram.me^$important
+@@||cdn-telegram.org^$important
+@@||telegram-cdn.org^$important
+@@||telegra.ph^$important
+@@||tg.dev^$important
 
 # =====================
 # CIDS
 # =====================
 
+@@||github.com^$important
+@@||desktop.github.com/download^$important
+@@||desktop.github.com^$important
+@@||desktop.githubusercontent.com^$important
+@@||update.github.com^$important
+@@||api.github.com^$important
+@@||raw.githubusercontent.com^$important
+@@||assets-cdn.github.com^$important
 @@||www.hacktown.com.br^$important
 @@||hacktown.com.br^$important
 @@||www.hacktown.com.br/programacao^$important
